@@ -5,7 +5,10 @@ Find more challenges plus free and paid Web Dev course on the [Scrimba](https://
 
 ## Challenges
 
-Challenge No. 38: Name Beautifier
+#### Challenge No. 38: Name Beautifier
 * [V1](https://thebimsider.github.io/scrimba-weekly-challenges/Name-Beautifer/V1/)
 * [V2](https://thebimsider.github.io/scrimba-weekly-challenges/Name-Beautifer/V2/)
 * [V3](https://thebimsider.github.io/scrimba-weekly-challenges/Name-Beautifer/V3/)
+
+#### Challenge No. 39: Name JavaScript Loader  
+* V1 (coming soon)
