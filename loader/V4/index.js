@@ -7,11 +7,11 @@
 // 1. Add a timer
 // 2. Change the loader style
 
+document.getElementById("doge").style.display = "none";
 const loadBtn = document.getElementById("btn");
 const loader = document.getElementById("loader");
 const loading = document.getElementById("loading");
 const loaded = document.getElementById("loaded");
-document.getElementById("doge").style.display = "none";
 
 loadEventListeners();
 function loadEventListeners() {
