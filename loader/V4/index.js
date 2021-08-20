@@ -43,6 +43,7 @@ function timer() {
       loading.style.display = "none";
       loaded.style.display = "none";
       doge.style.display = "block";
+      document.getElementById("btn").style.display = "none";
       document.getElementById("countdown").innerHTML = "Doge!!!";
     } else {
       document.getElementById("countdown").innerHTML = "Loading... " + timeleft;
