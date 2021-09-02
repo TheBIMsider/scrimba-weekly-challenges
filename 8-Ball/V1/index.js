@@ -21,8 +21,9 @@ const color = [
 ]
 
 let counterBallColor = 0;
-//var to store length of colors Array
 let ballColorCount = color.length;
+let counterAdvice = 0;
+let adviceCount = advice.length;
 
 // load all event listeners
 loadEventListeners()
@@ -44,6 +45,8 @@ function changeBallColor () {
 
 // Change Advice 
 function changeAdvice () {
-  const randomAdvice = Math.floor(Math.random() * advice.length);
-  adviceDisplay.innerHTML = (advice[randomAdvice]);
+  counterAdvice += 1;
+  let currentAdvice = counterAdvice % adviceCount;
+  nextAdvice = (currentAdvice + 1) % adviceCount;
+  adviceDisplay.innerHTML = (advice[nextAdvice]);
 }
