@@ -7,7 +7,7 @@ Find more challenges plus free and paid Web Dev course on the [Scrimba](https://
 
 #### Challenge No. 40: [Magic 8-ball](https://scrimba.com/learn/weeklychallenge/the-weekly-web-dev-challenge-magic-8-ball-latest-challenge-code-to-win-cof8145a08f203bef69f3cdc1) 
 * [V1](https://thebimsider.github.io/scrimba-weekly-challenges/8-Ball/V1/)
-* V2 (coming soon)
+* [V2](https://thebimsider.github.io/scrimba-weekly-challenges/8-Ball/V2/)  
 
 #### Challenge No. 39: [JavaScript Loader](https://scrimba.com/learn/weeklychallenge/the-weekly-web-dev-challenge-javascript-loader-latest-challenge-code-to-win-co42840758dd9d98f51a49aae)  
 * [V1](https://thebimsider.github.io/scrimba-weekly-challenges/loader/V1/)
