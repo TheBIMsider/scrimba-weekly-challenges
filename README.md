@@ -6,7 +6,7 @@ Find more challenges plus free and paid Web Dev course on the [Scrimba](https://
 ## Challenges
 
 #### Challenge No. 43: [Word Count](https://scrimba.com/learn/weeklychallenge/the-weekly-web-dev-challenge-word-count-latest-challenge-code-to-win-cE62LvsB) 
-* [V1](https://thebimsider.github.io/scrimba-weekly-challenges/Word Count/V1/) - Basic Challenge   
+* [V1](https://thebimsider.github.io/scrimba-weekly-challenges/Word-Count/V1/) - Basic Challenge   
 
 #### Challenge No. 40: [Magic 8-ball](https://scrimba.com/learn/weeklychallenge/the-weekly-web-dev-challenge-magic-8-ball-latest-challenge-code-to-win-cof8145a08f203bef69f3cdc1) 
 * [V1](https://thebimsider.github.io/scrimba-weekly-challenges/8-Ball/V1/) - Basic Challenge
